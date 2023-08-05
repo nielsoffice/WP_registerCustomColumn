@@ -31,6 +31,10 @@ add_action( "manage_{$post_type}_posts_custom_column", function ( $column_name, 
 
 <br /> Also: 
 <br /> https://github.com/nielsoffice/WP_customSearchFilter
+<br />
+<br /> Related: 
+<br /> https://developer.wordpress.org/reference/hooks/manage_post_type_posts_columns/
+<br /> https://developer.wordpress.org/reference/hooks/manage_posts_columns/
 
 <br /> Source: 
 <br /> https://awhitepixel.com/blog/modify-add-custom-columns-post-list-wordpress-admin/
